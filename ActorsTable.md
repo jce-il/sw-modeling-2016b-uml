@@ -5,13 +5,15 @@
 |   | browse items  |
 |   | purchase items - make order  |
 |   | pay the bill  |
+|   | send message  |
 | sellers  | register to the site for upload itmes for sell  |
 |   | add new item to the site for sell  |
 |   | manage all seller items  |
 |   | remve item from the list  |
-|   | sent message to buyers  |
+|   | send message  |
 | Administrators  | manage all site users (sellers and buyers)  |
 |   | monitor site activities  |
+|   | send message  |
 | Payment process  | get taxes  |
 |   | get shipping costs  |
 |   | calculate total price  |
