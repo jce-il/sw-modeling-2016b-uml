@@ -1,5 +1,5 @@
 <?xml version = '1.0' encoding = 'UTF-8' ?>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Sat Mar 26 13:24:21 IDT 2016'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Sat Mar 26 14:26:25 IDT 2016'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -29,7 +29,11 @@
           isAbstract = 'false'/>
         <UML:UseCase xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:000000000000086D'
           name = 'register' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
-          isAbstract = 'false'/>
+          isAbstract = 'false'>
+          <UML:UseCase.include>
+            <UML:Include xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001336'/>
+          </UML:UseCase.include>
+        </UML:UseCase>
         <UML:Association xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:000000000000086E'
           name = '' isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
           <UML:Association.connection>
@@ -165,7 +169,11 @@
           isAbstract = 'false'/>
         <UML:UseCase xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:0000000000000887'
           name = 'purchase cart' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
-          isAbstract = 'false'/>
+          isAbstract = 'false'>
+          <UML:UseCase.include>
+            <UML:Include xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001340'/>
+          </UML:UseCase.include>
+        </UML:UseCase>
         <UML:Association xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:0000000000000888'
           name = '' isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
           <UML:Association.connection>
@@ -209,7 +217,11 @@
         </UML:Association>
         <UML:UseCase xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:000000000000088F'
           name = 'manage items' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
-          isAbstract = 'false'/>
+          isAbstract = 'false'>
+          <UML:UseCase.include>
+            <UML:Include xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133F'/>
+          </UML:UseCase.include>
+        </UML:UseCase>
         <UML:Association xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:0000000000000890'
           name = '' isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
           <UML:Association.connection>
@@ -370,6 +382,9 @@
           <UML:GeneralizableElement.generalization>
             <UML:Generalization xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008BF'/>
           </UML:GeneralizableElement.generalization>
+          <UML:UseCase.include>
+            <UML:Include xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133A'/>
+          </UML:UseCase.include>
         </UML:UseCase>
         <UML:Association xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AB'
           name = '' isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
@@ -398,6 +413,17 @@
             <UML:Generalization xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008C7'/>
             <UML:Generalization xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008C8'/>
           </UML:GeneralizableElement.generalization>
+          <UML:UseCase.include>
+            <UML:Include xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001337'/>
+            <UML:Include xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001338'/>
+            <UML:Include xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001339'/>
+          </UML:UseCase.include>
+          <UML:UseCase.extensionPoint>
+            <UML:ExtensionPoint xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133B'
+              name = 'newEP' isSpecification = 'false' location = 'loc'/>
+            <UML:ExtensionPoint xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133D'
+              name = 'newEP' isSpecification = 'false' location = 'loc'/>
+          </UML:UseCase.extensionPoint>
         </UML:UseCase>
         <UML:Association xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AF'
           name = '' isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'>
@@ -457,6 +483,9 @@
             <UML:Generalization xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008B9'/>
             <UML:Generalization xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008C1'/>
           </UML:GeneralizableElement.generalization>
+          <UML:UseCase.extend>
+            <UML:Extend xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133C'/>
+          </UML:UseCase.extend>
         </UML:UseCase>
         <UML:Generalization xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008B9'
           isSpecification = 'false'>
@@ -474,6 +503,9 @@
             <UML:Generalization xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008BB'/>
             <UML:Generalization xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008C2'/>
           </UML:GeneralizableElement.generalization>
+          <UML:UseCase.extend>
+            <UML:Extend xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133E'/>
+          </UML:UseCase.extend>
         </UML:UseCase>
         <UML:Generalization xmi.id = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008BB'
           isSpecification = 'false'>
@@ -579,6 +611,93 @@
             <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:0000000000000887'/>
           </UML:Generalization.parent>
         </UML:Generalization>
+        <UML:Include xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001336'
+          isSpecification = 'false'>
+          <UML:Include.addition>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:0000000000000879'/>
+          </UML:Include.addition>
+          <UML:Include.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:000000000000086D'/>
+          </UML:Include.base>
+        </UML:Include>
+        <UML:Include xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001337'
+          isSpecification = 'false'>
+          <UML:Include.addition>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008B8'/>
+          </UML:Include.addition>
+          <UML:Include.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AE'/>
+          </UML:Include.base>
+        </UML:Include>
+        <UML:Include xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001338'
+          isSpecification = 'false'>
+          <UML:Include.addition>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AA'/>
+          </UML:Include.addition>
+          <UML:Include.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AE'/>
+          </UML:Include.base>
+        </UML:Include>
+        <UML:Include xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001339'
+          isSpecification = 'false'>
+          <UML:Include.addition>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008BA'/>
+          </UML:Include.addition>
+          <UML:Include.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AE'/>
+          </UML:Include.base>
+        </UML:Include>
+        <UML:Include xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133A'
+          isSpecification = 'false'>
+          <UML:Include.addition>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008A6'/>
+          </UML:Include.addition>
+          <UML:Include.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AA'/>
+          </UML:Include.base>
+        </UML:Include>
+        <UML:Extend xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133C'
+          isSpecification = 'false'>
+          <UML:Extend.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AE'/>
+          </UML:Extend.base>
+          <UML:Extend.extension>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008B8'/>
+          </UML:Extend.extension>
+          <UML:Extend.extensionPoint>
+            <UML:ExtensionPoint xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133B'/>
+          </UML:Extend.extensionPoint>
+        </UML:Extend>
+        <UML:Extend xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133E'
+          isSpecification = 'false'>
+          <UML:Extend.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AE'/>
+          </UML:Extend.base>
+          <UML:Extend.extension>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008BA'/>
+          </UML:Extend.extension>
+          <UML:Extend.extensionPoint>
+            <UML:ExtensionPoint xmi.idref = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133D'/>
+          </UML:Extend.extensionPoint>
+        </UML:Extend>
+        <UML:Include xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:000000000000133F'
+          isSpecification = 'false'>
+          <UML:Include.addition>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:0000000000000893'/>
+          </UML:Include.addition>
+          <UML:Include.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:000000000000088F'/>
+          </UML:Include.base>
+        </UML:Include>
+        <UML:Include xmi.id = '-87--2-64-99-7f7c5473:153b2a5748a:-8000:0000000000001340'
+          isSpecification = 'false'>
+          <UML:Include.addition>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:00000000000008AE'/>
+          </UML:Include.addition>
+          <UML:Include.base>
+            <UML:UseCase xmi.idref = '-87--2-64-99--6294136b:153b24ee848:-8000:0000000000000887'/>
+          </UML:Include.base>
+        </UML:Include>
       </UML:Namespace.ownedElement>
     </UML:Model>
   </XMI.content>
