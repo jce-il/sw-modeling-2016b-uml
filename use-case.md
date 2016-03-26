@@ -25,15 +25,15 @@
 |   | 11) the system accept the information and performs payment   |
 |   | 12) the system displays a success message to the buyer   |
 | Extensions (Errors)  | 1. the log-in time is over  |
-|   | --1.a. the system displays login page   |
-|   | --1.b. the buyer insert login information again   |
+|   | -- 1.a. the system displays login page   |
+|   | -- 1.b. the buyer insert login information again   |
 |   | 2. there is no result to the search   |
-|   | --2.a. the system displays page with item not found   |
-|   | --2.b. the buyer try different search input   |
+|   | -- 2.a. the system displays page with item not found   |
+|   | -- 2.b. the buyer try different search input   |
 |   | 3. credit card information incorrect   |
-|   | --3.a. the system displays page message fro the buyer that the information incorrect   |
-|   | --3.b. the buyer put the credit information again   |
-|   | --3.c. the buyer press done   |
-| Alternative scenarios  | 1) the buyer find the item in browse and not search  |
-|   | 2) the buyer wants to select few items in one payment  |
-|   | 3) the buyer is new and does not have account- register  |
+|   | -- 3.a. the system displays page message fro the buyer that the information incorrect   |
+|   | -- 3.b. the buyer put the credit information again   |
+|   | -- 3.c. the buyer press done   |
+| Alternative scenarios  | 1) the buyer find the item in browse and not search - after find the item continue to (4)  |
+|   | 2) the buyer wants to select few items in one payment - after (5) go to (1) when finish go to (6)  |
+|   | 3) the buyer is new and does not have account- register - after register start from (1)  |
