@@ -1,5 +1,5 @@
 | Title  | Details  |
-|:--------:|:--------:|
+|--------|--------|
 | Name  | buy item with credit  |
 | Actor  | buyer  |
 | Purpose  | find a item and credit payment  |
