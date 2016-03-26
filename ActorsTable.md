@@ -1,13 +1,17 @@
 | Actors  | Tasks  |
 |:--------:|:--------:|
-| Web Customer  |  search for an item |
+| Web Customers - Buyers  |  register |
+|   | search for an item  |
 |   | browse items  |
-|   | add item to cart  |
-|   | remove item to cart  |
 |   | purchase items - make order  |
 |   | pay the bill  |
-|   | check the order status  |
-|   | check the order status  |
-|   | check the order status  |
-|   | check the order status  |
-
+| sellers  | register  |
+|   | sell new item  |
+|   | manage all items  |
+|   |   |
+|   |   |
+| Administrators  | manage all users  |
+|   | monitor site activities  |
+|   |   |
+|   |   |
+|   |   |
