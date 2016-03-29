@@ -3,7 +3,7 @@
 Modeling an online store (Amazon like), through:
 
 1. Usecase analysis, with: 
-  - [Actors and stakeholder table](./ActorsTable.md)
+  - [Actors and stakeholder table](https://github.com/rivkage/sw-modeling-2016b-uml/wiki/Actor-Stakeholder-Table)
   - One [use-case diagram](./uc-diagram.md)
   - One detailed written [use case](./use-case.md)
 1. Four diagrams: [Sequence](), [Class](), [Activity](), [Component]()|[Deployment]()
