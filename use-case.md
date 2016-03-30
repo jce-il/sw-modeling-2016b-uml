@@ -21,7 +21,7 @@ a web service for product's sell/buy.
 <li>credit card/paypal service - vertification and charging users</li>
 </ul>
 
-**Trigger **:
+**Trigger**:
 User enters the online-shop
 
 **Pre-requirement**:
