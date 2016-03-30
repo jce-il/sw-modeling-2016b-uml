@@ -47,6 +47,7 @@ Main successful scenario:
 8. Seller ships the item to the buyer's address.
 
 More (errors):
+
 1. session timeout
 <ul>
 <li>redirect user to homepage.</li>
