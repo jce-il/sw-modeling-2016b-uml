@@ -37,4 +37,28 @@ Failure Condition:
 for example: buyer tries to buy an item that doesnt exists.
 
 Main successful scenario:
-for example: buyer tries to buy an item that doesnt exists.
+1. User Enter website to sell/buy item
+2. User register as buyer/seller.
+3. Seller post a new item to sell
+4. Buyer find an item he needs.
+5. Buyer click the purchase button
+6. Buyer verify his paypal/credit card info
+7. Seller receives his money
+8. Seller ships the item to the buyer's address.
+
+More (errors):
+1. session timeout
+<ul>
+<li>redirect user to homepage.</li>
+<li>user login again or just leaves.</li>
+</ul>
+2. item is out of stock but site was not updated
+<ul>
+<li>show the user an error message.</li>
+<li>inform the buyer that someone needs the item maybe he has extra.</li>
+</ul>
+3. seller does not have enough money
+<ul>
+<li>show the user an error message.</li>
+<li>give him an option to change the payment method.</li>
+</ul>
