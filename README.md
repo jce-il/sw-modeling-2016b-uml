@@ -3,9 +3,9 @@
 Modeling an online store (Amazon like), through:
 
 1. Usecase analysis, with: 
-  - [Actors and stakeholder table](https://github.com/rivkage/sw-modeling-2016b-uml/wiki/Actor-Stakeholder-Table)
-  - One [use-case diagram](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/OnlineStoreDiagram%20(1)%20(1)%20(3).png)
-  - One detailed written [use case](https://github.com/rivkage/sw-modeling-2016b-uml/wiki/Written-Use-Case:-Explore-Catalogue)
+  - ![Actors and stakeholder table](https://github.com/rivkage/sw-modeling-2016b-uml/wiki/Actor-Stakeholder-Table)
+  - One ![use-case diagram](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/OnlineStoreDiagram%20(1)%20(1)%20(3).png)
+  - One detailed written ![use case](https://github.com/rivkage/sw-modeling-2016b-uml/wiki/Written-Use-Case:-Explore-Catalogue)
 1. Four diagrams: [Sequence](), [Class](), [Activity](), [Component]()|[Deployment]()
 1. [OCL]: One diagram with constrains (see CAR example in lecture slides)
 
