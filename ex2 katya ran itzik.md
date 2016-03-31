@@ -17,7 +17,7 @@
 
 ## Use-cases Diagram
 
-![Use case diagram](https://github.com/katyadenef/sw-modeling-2016b/blob/master/UseCaseDiag.PNG)
+![Use case diagram](https://github.com/katyadenef/sw-modeling-2016b-uml/blob/master/Ex2-usecase-picture.png)
 
 ## Detailed Use-case
 
