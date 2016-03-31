@@ -1,5 +1,5 @@
 
 Sequence Diagram:
 
- - png file [use-case diagram](./SequenceUML.PNG)
- - xmi file [use-case diagram](./SequenceUML.xmi)
+ - png file [Sequence diagram](./SequenceUML.PNG)
+ - xmi file [Sequence diagram](./SequenceUML.xmi)
