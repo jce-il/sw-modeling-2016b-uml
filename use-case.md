@@ -6,4 +6,4 @@
 ###### Pre condtion - User have account for store login, If user isnt register  redirect user to register page 
 ###### After account creation / Login user will be redirect to cart view.
 ###### Success indicator - User cart are updated with new changes  
-
+###### After editing user can move to next stage - Checkout 
