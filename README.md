@@ -5,7 +5,7 @@ Modeling an online store (Amazon like), through:
 1. Usecase analysis, with: 
   - [Actors and stakeholder table](./ActorsTable.md)
   - One [use-case diagram](./uc-diagram.md)
-  - One detailed written [use case](./use-case.md)
+  - One detailed written [use case](./Use-case.md) -- ([Make Purchase](./Make-Purchase Case.md))
 1. Four diagrams: [Sequence](), [Class](), [Activity](), [Component]()|[Deployment]()
 1. [OCL]: One diagram with constrains (see CAR example in lecture slides)
 
