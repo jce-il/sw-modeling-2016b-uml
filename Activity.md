@@ -1,6 +1,6 @@
 
 Activity Diagram:
 
- - png file [Activity diagram](./ActivityUML.PNG)
- - xmi file [Activity diagram](./ActivityUML.xmi)
+ - png file [Activity diagram](./Activity UML.PNG)
+ - xmi file [Activity diagram](./Activity UML.xmi)
 
