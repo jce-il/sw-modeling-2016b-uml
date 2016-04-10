@@ -9,7 +9,20 @@ Modeling an online store (Amazon like), through:
     ![use-case diagram](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/OnlineStoreDiagram%20(1)%20(1)%20(3).png)
   - One detailed written use case: 
     [use case](https://github.com/rivkage/sw-modeling-2016b-uml/wiki/Written-Use-Case:-Explore-Catalogue)
-1. Four diagrams: [Sequence](), [Class](), [Activity](), [Component]()|[Deployment]()
+1. Four diagrams: 
+  - Sequence diagram (High Level e-store)
+   ![Sequence](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/SequenceDiagramPurchaseItemFinalVersion%20(1).png), 
+
+
+  - Class diagram 
+   ![Class](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/ClassDiagramPurchaseItem.png),
+
+
+  - Activity diagram 
+   ![Activity](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/ActivityDiagram.png), 
+
+
+   [Component]()|[Deployment]()
 1. [OCL]: One diagram with constrains (see CAR example in lecture slides)
 
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
