@@ -22,7 +22,10 @@ Modeling an online store (Amazon like), through:
    ![Activity](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/ActivityDiagram.png), 
 
 
-   [Component]()|[Deployment]()
+   - Component diagram (e-store)
+     ![Component](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/eStoreComponentDiagram.png)
+
+
 1. [OCL]: One diagram with constrains (see CAR example in lecture slides)
 
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
