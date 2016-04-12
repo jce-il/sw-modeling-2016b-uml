@@ -11,7 +11,7 @@ Modeling an online store (Amazon like), through:
     [use case](https://github.com/rivkage/sw-modeling-2016b-uml/wiki/Written-Use-Case:-Explore-Catalogue)
 1. Four diagrams: 
   - Sequence diagram (High Level e-store)
-   ![Sequence](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/SequenceDiagramPurchaseItemFinalVersion%20(1).png), 
+   ![Sequence](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/SequenceDiagramPurchaseItemFinalVersion%20(1)%20(1).png), 
  
 
     This sequence diagram presents the purchase of an item in the e-store on a high level point of view. 
