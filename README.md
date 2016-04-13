@@ -14,3 +14,6 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 - Format: Each part has a separte markdown page including XMI files and image files
 
 - **Submission dates**: 3 parts, each successive weeks, by pull request
+
+
+XMI Files: [XMI Files](./XMIFiles.md), 
