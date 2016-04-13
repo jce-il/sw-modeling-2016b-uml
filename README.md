@@ -16,4 +16,4 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 - **Submission dates**: 3 parts, each successive weeks, by pull request
 
 
-XMI Files: [XMI Files](./XMIFiles.md), 
+XMI Files: [XMI Files](./XMIFile.md)
