@@ -36,6 +36,22 @@
 | Main successful scenario | <ol><li>customer requests technical help</li><li>the customer fills out the form for opening a ticket</li><li>a ticket is opened in the system</li><li>the systems connects the customer to chat with a support agent</li><li>the customer explains his issue</li><li>the support agent resolves the issue</li><li>the customer manages to do his task and closes the chat with the agent</li><li>the support agent closes the ticket</li></ol> |
 | More (errors) | <ul><li>support agent is unavailable<ul><li>the customer is asked to wait on the line</li><li>the customer gives up and looks for another way to do what he needed to do</li></ul></li><li>the support team cannot resolve the issue, coz it's a bug and needs to be fixed by developers</li></ul> |
 | Aternative Scenario | the customer find a phone number to call for thechnical support |
+
+## Activity Diagram
+
+![Activity diagram](https://github.com/katyadenef/sw-modeling-2016b-uml/blob/master/Activity%20Diagram.png)
+
+## Class Diagram
+
+![Class diagram](https://github.com/katyadenef/sw-modeling-2016b-uml/blob/master/Class%20Diagram.png)
+
+## Component Diagram
+
+![Component diagram](https://github.com/katyadenef/sw-modeling-2016b-uml/blob/master/Component%20Diagram.png)
+
+## Sequence Diagram
+
+![Sequence diagram](https://github.com/katyadenef/sw-modeling-2016b-uml/blob/master/Sequence%20Diagram.png)
 </br>
 </br>
 &copy; Katya Denef, Ran Itzhaky, Itzik Rabinovich
