@@ -1,1 +1,1 @@
-[Sequence](./SDXmi.xmi), [Class](./CDxmi.xmi), [Activity](./ADxmi.xmi), [Deployment](./DDxmi.xmi)
+[Sequence](./SDXmi.xmi), [Class](./CDxmi.xmi), [Activity](./ADxml.Xmi), [Deployment](./DDxmi.xmi)
