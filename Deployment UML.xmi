@@ -1,0 +1,140 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Wed Apr 13 10:29:52 IDT 2016'>
+  <XMI.header>    <XMI.documentation>
+      <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
+      <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
+    </XMI.documentation>
+    <XMI.metamodel xmi.name="UML" xmi.version="1.4"/></XMI.header>
+  <XMI.content>
+    <UML:Model xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000865'
+      name = 'untitledModel' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+      isAbstract = 'false'>
+      <UML:Namespace.ownedElement>
+        <UML:Node xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000867'
+          name = 'Web Server' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000877'/>
+          </UML:ModelElement.clientDependency>
+          <UML:Namespace.ownedElement>
+            <UML:Component xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086C'
+              name = 'Online shopping cart' isSpecification = 'false' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
+              <UML:Component.deploymentLocation>
+                <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000867'/>
+              </UML:Component.deploymentLocation>
+            </UML:Component>
+            <UML:Component xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086D'
+              name = 'Payment Gateway' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:ModelElement.clientDependency>
+                <UML:Dependency xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000879'/>
+              </UML:ModelElement.clientDependency>
+              <UML:Component.deploymentLocation>
+                <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000867'/>
+              </UML:Component.deploymentLocation>
+            </UML:Component>
+            <UML:Dependency xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000877'
+              isSpecification = 'false'>
+              <UML:Dependency.client>
+                <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000867'/>
+              </UML:Dependency.client>
+              <UML:Dependency.supplier>
+                <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000873'/>
+              </UML:Dependency.supplier>
+            </UML:Dependency>
+          </UML:Namespace.ownedElement>
+          <UML:Node.deployedComponent>
+            <UML:Component xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086C'/>
+            <UML:Component xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086D'/>
+          </UML:Node.deployedComponent>
+        </UML:Node>
+        <UML:Node xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000869'
+          name = 'Client' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000878'/>
+          </UML:ModelElement.clientDependency>
+          <UML:Namespace.ownedElement>
+            <UML:Component xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086A'
+              name = 'Browser' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:Component.deploymentLocation>
+                <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000869'/>
+              </UML:Component.deploymentLocation>
+            </UML:Component>
+          </UML:Namespace.ownedElement>
+          <UML:Node.deployedComponent>
+            <UML:Component xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086A'/>
+          </UML:Node.deployedComponent>
+        </UML:Node>
+        <UML:Node xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086E'
+          name = 'Payment portal' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:Namespace.ownedElement>
+            <UML:Component xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000875'
+              name = 'Payment API' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:Component.deploymentLocation>
+                <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086E'/>
+              </UML:Component.deploymentLocation>
+            </UML:Component>
+          </UML:Namespace.ownedElement>
+          <UML:Node.deployedComponent>
+            <UML:Component xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000875'/>
+          </UML:Node.deployedComponent>
+        </UML:Node>
+        <UML:Node xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086F'
+          isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'/>
+        <UML:Node xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000870'
+          isSpecification = 'false' isRoot = 'false' isLeaf = 'false' isAbstract = 'false'/>
+        <UML:Node xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000873'
+          name = 'Database Server' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000876'/>
+          </UML:ModelElement.clientDependency>
+          <UML:Namespace.ownedElement>
+            <UML:Component xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000874'
+              name = 'Products DB' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:Component.deploymentLocation>
+                <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000873'/>
+              </UML:Component.deploymentLocation>
+            </UML:Component>
+          </UML:Namespace.ownedElement>
+          <UML:Node.deployedComponent>
+            <UML:Component xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000874'/>
+          </UML:Node.deployedComponent>
+        </UML:Node>
+        <UML:Dependency xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000876'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000873'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000867'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000878'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000869'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000867'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:0000000000000879'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086D'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Node xmi.idref = '-84-19-2--20-5c2e1cc1:1540e5e4bd1:-8000:000000000000086E'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+      </UML:Namespace.ownedElement>
+    </UML:Model>
+  </XMI.content>
+</XMI>

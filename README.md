@@ -6,8 +6,8 @@ Modeling an online store (Amazon like), through:
   - [Actors and stakeholder table](./ActorsTable.md)
   - One [use-case diagram](./uc-diagram.md)
   - One detailed written [use case](./use-case.md)
-1. Four diagrams: [Sequence](), [Class](), [Activity](), [Component]()|[Deployment]()
-1. [OCL]: One diagram with constrains (see CAR example in lecture slides)
+1. Four diagrams: [Sequence](./Sequence.md), [Class](./Class.md), [Activity](./Activity.md), [Component](./Component.md)|[Deployment](./Deployment.md)
+1. [OCL](./OCL.md): One diagram with constrains (see CAR example in lecture slides)
 
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
 
