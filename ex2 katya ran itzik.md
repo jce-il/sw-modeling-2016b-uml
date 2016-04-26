@@ -52,6 +52,11 @@
 ## Sequence Diagram
 
 ![Sequence diagram](https://github.com/katyadenef/sw-modeling-2016b-uml/blob/master/Sequence%20Diagram.png)
+
+## OCL
+
+![OCL diagram](https://github.com/katyadenef/sw-modeling-2016b-uml/blob/master/ClassDiag%20w%20OCL.png)
+
 </br>
 </br>
 &copy; Katya Denef, Ran Itzhaky, Itzik Rabinovich
