@@ -54,7 +54,11 @@ Modeling an online store (Amazon like), through:
      We separate the system in entities and show the relation with interfaces and ports.
 
 1. [OCL]: One diagram with constrains (see CAR example in lecture slides)
+   ![Class Diagram with Constraints](https://github.com/rivkage/sw-modeling-2016b-uml/blob/master/Chart.png)
 
+    This class diagram with constraints describes the classes of the online store employees ( only Admin and Customer Support employees). It focuses on specific functions and variables with constraints.
+    
+    
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
 
 - Format: Each part has a separte markdown page including XMI files and image files
