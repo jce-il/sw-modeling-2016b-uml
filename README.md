@@ -7,7 +7,7 @@ Modeling an online store (Amazon like), through:
   - One [use-case diagram](./uc-diagram.md)
   - One detailed written [use case](./use-case.md)
 1. Four diagrams: [Sequence](./Sequence.md), [Class](./Class.md), [Activity](./Activity.md), [Deployment](./Deployment.md)
-1. [OCL]: One diagram with constrains (see CAR example in lecture slides)
+1. [OCL](./OCL.md)
 
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
 
