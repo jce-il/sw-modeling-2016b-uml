@@ -4,10 +4,10 @@ Modeling an online store (Amazon like), through:
 
 1. Usecase analysis, with: 
   - [Actors and stakeholder table](./ActorsTable.md)
-  - One [use-case diagram](./uc-diagram.md)
-  - One detailed written [use case](./use-case.md)
-1. Four diagrams: [Sequence](./Sequence.md), [Class](./Class.md), [Activity](./Activity.md), [Deployment](./Deployment.md)
-1. [OCL](./OCL.md)
+  -  [use-case diagram](./uc-diagram.md)
+  -  [use case](./use-case.md)
+2. [Sequence](./Sequence.md), [Class](./Class.md), [Activity](./Activity.md), [Deployment](./Deployment.md)
+3. [OCL](./ocl.md)
 
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
 
