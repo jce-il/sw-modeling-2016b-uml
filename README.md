@@ -12,5 +12,6 @@ Modeling an online store (Amazon like), through:
 The models should be simple but not too simplistic! Using some non trivial UML constructs.
 
 - Format: Each part has a separte markdown page including XMI files and image files
+- Remark: you should add markdown pages for the different parts.
 
 - **Submission dates**: 3 parts, each successive weeks, by pull request
