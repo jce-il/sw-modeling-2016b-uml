@@ -5,13 +5,14 @@ Avi Turner: My submissions:
 ----------
 1. [Actors table](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part1/ActorsTable.md)
 2. [Use case diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part1/use-case-diagram.pdf)
-3. [detailed written use case](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part1/detailed-use-case.md)
+3. [Detailed written use case](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part1/detailed-use-case.md)
 
 **Ex 2:**
 ----------
 1. [Sequence diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/sequence%20diagram.pdf)
 2. [Class diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/class_diagram.pdf)
 3. [Activity diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/Activity%20Diagram.pdf)
+4. [Deployment diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/Component%20Diagram.pdf)
 
 ----------
 Modeling an online store (Amazon like), through:
