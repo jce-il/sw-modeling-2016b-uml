@@ -11,6 +11,7 @@ Avi Turner: My submissions:
 ----------
 1. [Sequence diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/sequence%20diagram.pdf)
 2. [Class diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/class_diagram.pdf)
+3. [Activity diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/Activity%20Diagram.pdf)
 
 ----------
 Modeling an online store (Amazon like), through:
