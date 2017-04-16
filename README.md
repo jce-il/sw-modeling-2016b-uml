@@ -15,7 +15,13 @@ Avi Turner: My submissions:
 4. [Deployment diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/Component%20Diagram.pdf)
 5. [Discussion](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part2/discussion.md)
 
+**EX 3:**
+-----------
+1. [OCL Diagram](https://github.com/turner11/sw-modeling-2016b-uml/blob/master/EX_UML_part3/OCL_diagram.pdf)
+
 ----------
+
+
 Modeling an online store (Amazon like), through:
 
 1. Usecase analysis, with: 
